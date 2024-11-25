@@ -12,6 +12,7 @@
 * [Advertiser API](advertiser/advertiser-api/README.md)
   * [Campaign API](advertiser/advertiser-api/campaign-api/README.md)
     * [Campaign Add](advertiser/advertiser-api/campaign-api/campaign-add.md)
+    * [Copy of Campaign Add](advertiser/advertiser-api/campaign-api/copy-of-campaign-add.md)
     * [Campaign Edit](advertiser/advertiser-api/campaign-api/campaign-edit.md)
     * [Campaign Start](advertiser/advertiser-api/campaign-api/campaign-start.md)
     * [Campaign Pause](advertiser/advertiser-api/campaign-api/campaign-pause.md)
