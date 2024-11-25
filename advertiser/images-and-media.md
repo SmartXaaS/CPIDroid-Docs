@@ -1,5 +1,6 @@
 ---
 icon: image-landscape
+hidden: true
 ---
 
 # Images & media
