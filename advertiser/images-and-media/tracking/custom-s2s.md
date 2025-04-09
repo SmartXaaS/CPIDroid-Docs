@@ -44,17 +44,18 @@ How to get your default Postback URL?
 
 Prepare your Install Postback URL:
 
-* If your tracking system's click id data macro/placeholder is {CLICKID} then Install Postback URL should look like below example:-\
-  `https://track.cpidroid.com/install.php?click_id={CLICKID}&token=[TOKEN]`
+*   If your tracking system's click id data macro/placeholder is {CLICKID} then Install Postback URL should look like below example:-\
+
+
+    <pre><code><strong>https://track.cpidroid.com/install.php?click_id={CLICKID}&#x26;token=[TOKEN]
+    </strong></code></pre>
 
 Prepare your Event Postback URL:
 
-* If your tracking system's click id data macro/placeholder is {CLICKID} then Event Postback URL should look like below example:-\
-  `https://track.cpidroid.com/event.php?click_id={CLICKID}&event_name=EVENT_NAME&token=[TOKEN]` \
-  \
-  &#xNAN;_&#x4E;ote: In case of CPA campaign, unique even name is required, you may hardcode it into the postback url on parameter "**event\_name"**_\
-  \
+* If your tracking system's click id data macro/placeholder is {CLICKID} then Event Postback URL should look like below example: \
+  `https://track.cpidroid.com/event.php?click_id={CLICKID}&event_name=EVENT_NAME&token=[TOKEN]`
 
+_Note: In case of CPA campaign, unique even name is required, you may hardcode it into the postback url on parameter "**event\_name"**_
 
 ### Sending the Conversion Postback <a href="#h_01fedy7vpts5166c9h7v07qc2x" id="h_01fedy7vpts5166c9h7v07qc2x"></a>
 
@@ -84,7 +85,7 @@ How to develop your own custom tracking system for Android app?
 
 
 
-**Risk Disclaimer for Affiliates/Agencies/Networks:-**
+<mark style="color:red;">**Risk Disclaimer for Affiliates/Agencies/Networks:-**</mark>
 
 If you are an Affiliate/Agency/Network and going to setup custom s2s with us then you can try S2S but please be aware of a few things:-
 
