@@ -52,10 +52,14 @@ Prepare your Install Postback URL:
 
 Prepare your Event Postback URL:
 
-* If your tracking system's click id data macro/placeholder is {CLICKID} then Event Postback URL should look like below example: \
-  `https://track.cpidroid.com/event.php?click_id={CLICKID}&event_name=EVENT_NAME&token=[TOKEN]`
+*   If your tracking system's click id data macro/placeholder is {CLICKID} then Event Postback URL should look like below example:-\
 
-_Note: In case of CPA campaign, unique even name is required, you may hardcode it into the postback url on parameter "**event\_name"**_
+
+    <pre><code><strong>https://track.cpidroid.com/event.php?click_id={CLICKID}&#x26;event_name=EVENT_NAME&#x26;token=[TOKEN]
+    </strong></code></pre>
+
+    \
+    _Note: In case of CPA campaign, unique even name is required, you may hardcode it into the postback url on parameter "**event\_name"**_
 
 ### Sending the Conversion Postback <a href="#h_01fedy7vpts5166c9h7v07qc2x" id="h_01fedy7vpts5166c9h7v07qc2x"></a>
 
@@ -72,13 +76,24 @@ Postback URL help us to get notified about the user who completed the desired ac
 
 How to develop your own custom tracking system for Android app?
 
-* You can develop your own tracking url and pass our click id to your server like below example:-\
-  `https://track.yourserver.com/click.php?network=cpidroid&click_id={click_id}`  \
-  \
-  You should be able to store click id, ip address and other details with the help of which you can do probabilistic attribution and send us postbacks accordingly.
-* You can redirect users to play store and pass our click id through "referrer" URL parameter like below example:-\
-  `https://play.google.com/store/apps/details?id=com.example.application&referrer={click_id}` \
-  Learn more at [https://stackoverflow.com/questions/66205959/how-to-get-referrer-code-from-playstore-using-play-install-referrer-library](https://stackoverflow.com/questions/66205959/how-to-get-referrer-code-from-playstore-using-play-install-referrer-library)&#x20;
+*   You can develop your own tracking url and pass our click id to your server like below example:-\
+
+
+    ```
+     https://track.yourserver.com/click.php?network=cpidroid&click_id={click_id}
+    ```
+
+    \
+    You should be able to store click id, ip address and other details with the help of which you can do probabilistic attribution and send us postbacks accordingly.
+*   You can redirect users to play store and pass our click id through "referrer" URL parameter like below example:-\
+
+
+    ```
+    https://play.google.com/store/apps/details?id=com.example.application&referrer={click_id} 
+    ```
+
+    \
+    Learn more at [https://stackoverflow.com/questions/66205959/how-to-get-referrer-code-from-playstore-using-play-install-referrer-library](https://stackoverflow.com/questions/66205959/how-to-get-referrer-code-from-playstore-using-play-install-referrer-library)&#x20;
 * You need to read the value of INSTALL\_REFERRER to grab the click id that was passed.\
   Learn more at [https://developer.android.com/google/play/installreferrer](https://developer.android.com/google/play/installreferrer)&#x20;
 * Once you have the click id, you can send install postback to our postback url from within the app or maybe from your server.
