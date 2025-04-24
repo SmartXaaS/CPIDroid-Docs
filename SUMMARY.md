@@ -19,6 +19,7 @@
   * [Tracking](advertiser/images-and-media/tracking/README.md)
     * [Custom S2S](advertiser/images-and-media/tracking/custom-s2s.md)
     * [AppMetrica](advertiser/images-and-media/tracking/appmetrica.md)
+    * [Appsflyer](advertiser/images-and-media/tracking/appsflyer.md)
 * [Interactive blocks](advertiser/interactive-blocks.md)
 * [OpenAPI](advertiser/openapi.md)
 
