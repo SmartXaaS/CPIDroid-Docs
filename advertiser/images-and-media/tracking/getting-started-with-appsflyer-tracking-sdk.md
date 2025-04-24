@@ -25,8 +25,8 @@ You may need to integrate Appsflyer tracking SDK which is required for iOS CPI c
 
 * [AppsFlyer SDK Integration - Android](https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android)
 * [AppsFlyer SDK Integration - iOS](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS)\
-  \- **Make sure to implement ATT Prompt** => [https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support) \[**IMPORTANT for iOS**]\
-  \- **Make sure to disable Aggregated Advanced Privacy** => [https://support.appsflyer.com/hc/en-us/articles/360018515798-Aggregated-Advanced-Privacy-framework#controlling-aap](https://support.appsflyer.com/hc/en-us/articles/360018515798-Aggregated-Advanced-Privacy-framework#controlling-aap) \[**IMPORTANT for iOS**]\
+  \- <mark style="color:red;">**Make sure to implement ATT Prompt**</mark> <mark style="color:red;"></mark><mark style="color:red;">=></mark> [https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support) <mark style="color:red;">\[</mark><mark style="color:red;">**IMPORTANT for iOS**</mark><mark style="color:red;">]</mark>\
+  \- <mark style="color:red;">**Make sure to disable Aggregated Advanced Privacy**</mark> <mark style="color:red;"></mark><mark style="color:red;">=></mark> [https://support.appsflyer.com/hc/en-us/articles/360018515798-Aggregated-Advanced-Privacy-framework#controlling-aap](https://support.appsflyer.com/hc/en-us/articles/360018515798-Aggregated-Advanced-Privacy-framework#controlling-aap) <mark style="color:red;">\[</mark><mark style="color:red;">**IMPORTANT for iOS**</mark><mark style="color:red;">]</mark>\
   \- Learn more about [iOS 14 Advanced Privacy & Tracking](https://thesmartware.zendesk.com/hc/en-us/articles/360058630912-iOS-14-Advanced-Privacy-Tracking)
 
 **NOTICE:** For any technical support, please drop mail at [support@appsflyer.com](mailto:support@appsflyer.com?subject=I%20Need%20Help%20in%20Integrating%20Appsflyer%20SDK%20for%20CPI%20Droid%20\(https%3A%2F%2Fcpidroid.com\)\&body=Hi%20Team%2C%0AKindly%20guide%20me%20with%20the%20integration%20process%20for%20Appsflyer%20SDK%20and%20the%20tracking%20details%20required%20to%20setup%20campaign%20at%20CPI%20Droid%20\(https%3A%2F%2Fcpidroid.com\)%20with%20Appsflyer%20tracking.)
@@ -36,7 +36,7 @@ You may need to integrate Appsflyer tracking SDK which is required for iOS CPI c
 * Testing basic SDK functionality : [https://support.appsflyer.com/hc/en-us/articles/360001559405-Testing-AppsFlyer-SDK-integration#testing-basic-sdk-functionality](https://support.appsflyer.com/hc/en-us/articles/360001559405-Testing-AppsFlyer-SDK-integration#testing-basic-sdk-functionality)&#x20;
 * Testing using attribution links : [https://support.appsflyer.com/hc/en-us/articles/360001559405-Testing-AppsFlyer-SDK-integration#testing-using-attribution-links](https://support.appsflyer.com/hc/en-us/articles/360001559405-Testing-AppsFlyer-SDK-integration#testing-using-attribution-links)&#x20;
 
-\*It is highly recommended that you initialize the SDK and test the integration beforehand.
+<mark style="color:red;">\*It is highly recommended that you initialize the SDK and test the integration beforehand.</mark>
 
 **NOTICE:** For any technical support, please drop mail at [support@appsflyer.com](mailto:support@appsflyer.com?subject=I%20Need%20Help%20in%20Integrating%20Appsflyer%20SDK%20for%20CPI%20Droid%20\(https%3A%2F%2Fcpidroid.com\)\&body=Hi%20Team%2C%0AKindly%20guide%20me%20with%20the%20integration%20process%20for%20Appsflyer%20SDK%20and%20the%20tracking%20details%20required%20to%20setup%20campaign%20at%20CPI%20Droid%20\(https%3A%2F%2Fcpidroid.com\)%20with%20Appsflyer%20tracking.)
 
@@ -47,12 +47,12 @@ You may need to integrate Appsflyer tracking SDK which is required for iOS CPI c
 <figure><img src="../../../.gitbook/assets/IntegrationTab.jpg" alt=""><figcaption><p><br></p></figcaption></figure>
 
 * Activate us (cpidroid\_int) as partner : [https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-a-6](https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-a-6) \[Refer (A) in above image]
-* **For iOS Only:** Please implement ATT prompt or keep Advanced Privacy disabled \[Refer (B) in above image] for tracking to work properly (**IMPORTANT**) - [Learn more](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support)
+* <mark style="color:red;">**For iOS Only:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Please implement ATT prompt or keep Advanced Privacy disabled \[Refer (B) in above image] for tracking to work properly (</mark><mark style="color:red;">**IMPORTANT**</mark><mark style="color:red;">) -</mark> [Learn more](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS#configure-app-tracking-transparency-att-support)
 
 ### 4. Enable Install/Event Postbacks: <a href="#h_01eqfg4wh0d5drf2takprfcqtm" id="h_01eqfg4wh0d5drf2takprfcqtm"></a>
 
 * Enable Default Postback : [https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-d-9](https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-d-9)&#x20;
-* Enable In-App Event Postback : [https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-e-10](https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-e-10) (required for CPA campaign)
+* Enable In-App Event Postback : [https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-e-10](https://support.appsflyer.com/hc/en-us/articles/207033816#partner-setup-e-10) (<mark style="color:red;">required for CPA campaign</mark>)
 
 <figure><img src="../../../.gitbook/assets/blue spaces.png" alt=""><figcaption></figcaption></figure>
 
