@@ -1,4 +1,4 @@
-# AppMetrica
+# Getting Started with AppMetrica Tracking / SDK
 
 #### **About AppMetrica Tracking / SDK**
 

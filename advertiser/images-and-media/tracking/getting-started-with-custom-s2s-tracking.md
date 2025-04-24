@@ -1,4 +1,4 @@
-# Custom S2S
+# Getting Started with Custom S2S Tracking
 
 #### **About Custom S2S**
 
@@ -7,9 +7,9 @@ Custom tracking is available for advanced users who need to integrate their own 
 
 #### **Overview:**
 
-* [Generating the Tracking Link](custom-s2s.md#h_01fedvwxkdt5pw4nb9qb6zaapb)
-* [Preparing the Postback URL](custom-s2s.md#h_01fedy8x5ryvgw57e6fjtbxjwv)
-* [Sending the Conversion Postback](custom-s2s.md#h_01fedy7vpts5166c9h7v07qc2x)
+* [Generating the Tracking Link](getting-started-with-custom-s2s-tracking.md#h_01fedvwxkdt5pw4nb9qb6zaapb)
+* [Preparing the Postback URL](getting-started-with-custom-s2s-tracking.md#h_01fedy8x5ryvgw57e6fjtbxjwv)
+* [Sending the Conversion Postback](getting-started-with-custom-s2s-tracking.md#h_01fedy7vpts5166c9h7v07qc2x)
 
 ### Generating the Tracking Link <a href="#h_01fedvwxkdt5pw4nb9qb6zaapb" id="h_01fedvwxkdt5pw4nb9qb6zaapb"></a>
 

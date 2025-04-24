@@ -17,9 +17,9 @@
     * [Campaign Pause](advertiser/advertiser-api/campaign-api/campaign-pause.md)
 * [Advertise](advertiser/images-and-media/README.md)
   * [Tracking](advertiser/images-and-media/tracking/README.md)
-    * [Custom S2S](advertiser/images-and-media/tracking/custom-s2s.md)
-    * [Getting Started with AppMetrica Tracking / SDK](advertiser/images-and-media/tracking/getting-started-with-appmetrica-tracking-sdk.md)
-    * [Appsflyer](advertiser/images-and-media/tracking/appsflyer.md)
+    * [Getting Started with Custom S2S Tracking](advertiser/images-and-media/tracking/getting-started-with-custom-s2s-tracking.md)
+    * [Getting Started with AppMetrica Tracking / SDK](advertiser/images-and-media/tracking/appmetrica.md)
+    * [Getting Started with Appsflyer Tracking / SDK](advertiser/images-and-media/tracking/getting-started-with-appsflyer-tracking-sdk.md)
 * [Interactive blocks](advertiser/interactive-blocks.md)
 * [OpenAPI](advertiser/openapi.md)
 
