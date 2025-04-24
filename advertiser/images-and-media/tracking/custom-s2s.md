@@ -17,7 +17,7 @@ Tracking link help you to track the user who interacts (clicks) with the ads and
 
 * You will have to setup your own tracking link (via your own tracking solution) and it must carry the macro/placeholder **{click\_id}**, which is dynamically replaced with a generated click id we supply.
 * You need to check with your tracking provider to generate a tracking link from your custom tracking software provider's dashboard.
-* Your tracking link should must have a url data parameter to carry our {click\_id} macro. Usually, this parameter is called as Click ID or External ID by various tracking software providers.\
+* <mark style="color:red;">Your tracking link should must have a url data parameter to carry our {click\_id} macro</mark>. Usually, this parameter is called as Click ID or External ID by various tracking software providers.\
   &#xNAN;_&#x4E;ote: Some tracking system may not have a dedicated click id data parameter, but they should have alternative parameters to carry custom data which can be used instead such as "data", "var", "custom" and "sub" ..etc._
 *   For example, if your click id data parameter is "clickid" then tracking link should look like:-\
 
@@ -66,9 +66,9 @@ Prepare your Event Postback URL:
 Postback URL help us to get notified about the user who completed the desired actions (conversions) after interacting with the ads.
 
 * We will provide you with a postback URL. You will have to send conversion postbacks to our server on our postback URL after a successful conversion.
-* We have two separate postback urls, Install Postback URL (for CPI campaigns) and Event Postback URL (for CPA campaigns) => Make sure to set correct postback url accordingly.
+* <mark style="color:red;">We have two separate postback urls, Install Postback URL (for CPI campaigns) and Event Postback URL (for CPA campaigns) => Make sure to set correct postback url accordingly.</mark>
 * You will have to prepare/configure our postback urls for your tracking system and enable your tracking system to send conversion postbacks to our postback url.
-* Make sure to pass the unique value (same as we passed into your tracking link) of our click id on "click\_id" parameter into the postback url.
+* <mark style="color:red;">Make sure to pass the unique value (same as we passed into your tracking link) of our click id on "click\_id" parameter into the postback url.</mark>
 
 \*Make sure you contact us first to test and enable Custom S2S tracking for your account.
 
