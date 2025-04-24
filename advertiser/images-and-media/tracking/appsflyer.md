@@ -10,11 +10,11 @@ New to Appsflyer? Kindly refer to this official step by step guide by Appsflyer 
 
 **Overview:**
 
-1. Integrate AppsFlyer SDK:
-2. Initialize SDK & Test Integration:
-3. Activate CPIDroid as Partner:
-4. Enable Install/Event Postbacks:
-5. Grab your Tracking Link:
+1. [Integrate AppsFlyer SDK:](appsflyer.md#h_01eqfg4hhw715m3j7edfvj72mv)
+2. [Initialize SDK & Test Integration:](appsflyer.md#h_01ex23b9q71swqry0798545av2)
+3. [Activate CPIDroid as Partner:](appsflyer.md#id-3.-activate-cpidroid-as-partner)
+4. [Enable Install/Event Postbacks:](appsflyer.md#h_01eqfg4wh0d5drf2takprfcqtm)
+5. [Grab your Tracking Link:](appsflyer.md#h_01exkg6xemvz115jrksz6c3r10)
 
 ### 1. Integrate AppsFlyer SDK: <a href="#h_01eqfg4hhw715m3j7edfvj72mv" id="h_01eqfg4hhw715m3j7edfvj72mv"></a>
 
