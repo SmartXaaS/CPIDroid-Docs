@@ -40,6 +40,6 @@
     * [Android](publisher/monetize/offerwall/android.md)
     * [iOS](publisher/monetize/offerwall/ios.md)
 
-***
+## General
 
-* [for General](for-general.md)
+* [Advertiser API](general/advertiser-api.md)
