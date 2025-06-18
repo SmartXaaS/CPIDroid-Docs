@@ -24,6 +24,7 @@
     * [Branch](advertiser/images-and-media/tracking/branch.md)
     * [Tenjin](advertiser/images-and-media/tracking/tenjin.md)
     * [Kochava](advertiser/images-and-media/tracking/kochava.md)
+    * [List of Macros / Placeholders available apart from {click\_id}](advertiser/images-and-media/tracking/list-of-macros-placeholders-available-apart-from-click_id.md)
 * [Interactive blocks](advertiser/interactive-blocks.md)
 * [OpenAPI](advertiser/openapi.md)
 
