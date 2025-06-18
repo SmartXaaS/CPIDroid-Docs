@@ -25,6 +25,7 @@
     * [Tenjin](advertiser/images-and-media/tracking/tenjin.md)
     * [Kochava](advertiser/images-and-media/tracking/kochava.md)
     * [List of Macros / Placeholders available apart from {click\_id}](advertiser/images-and-media/tracking/list-of-macros-placeholders-available-apart-from-click_id.md)
+    * [Configuring In-App-Events for CPA Campaign](advertiser/images-and-media/tracking/configuring-in-app-events-for-cpa-campaign.md)
 * [Interactive blocks](advertiser/interactive-blocks.md)
 * [OpenAPI](advertiser/openapi.md)
 
