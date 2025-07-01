@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Getting Started with Offerwall
 
 **About Offerwall Monetization:**
@@ -111,3 +115,4 @@ _Note: This assumes you set uid to **username** in the original Offerwall URL fo
 | {sub\_id}     |          | SUB\_ID                               |
 | {ip}          |          | User IP                               |
 | {txn\_id}     |          | Unique Conversion Transaction ID      |
+
