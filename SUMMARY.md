@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Authorization](getting-started/publish-your-docs.md)
 
 ## For Advertisers <a href="#advertiser" id="advertiser"></a>
 
