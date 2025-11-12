@@ -33,7 +33,6 @@
 
 * [Publisher API](publisher/publisher-api/README.md)
   * [Getting Started with Offerwall](publisher/publisher-api/getting-started-with-offerwall.md)
-  * [Publisher API - Documentation Guide (v1.1)](publisher/publisher-api/publisher-api-documentation-guide-v1.1.md)
 * [Monetize](publisher/monetize/README.md)
   * [Offerwall](publisher/monetize/offerwall/README.md)
     * [Web](publisher/monetize/offerwall/web.md)
