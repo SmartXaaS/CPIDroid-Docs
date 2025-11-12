@@ -39,7 +39,3 @@
     * [Web](publisher/monetize/offerwall/web.md)
     * [Android](publisher/monetize/offerwall/android.md)
     * [iOS](publisher/monetize/offerwall/ios.md)
-
-## General
-
-* [Advertiser API](general/advertiser-api.md)
