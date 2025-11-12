@@ -1,6 +1,6 @@
 ---
 description: Publisher API - Documentation Guide (v1.1)
-icon: markdown
+icon: rectangle-code
 ---
 
 # Publisher API

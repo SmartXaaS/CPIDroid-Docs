@@ -1,6 +1,6 @@
 ---
 description: Documentation Guide (v1.0) [BETA]
-icon: pen-to-square
+icon: rectangle-code
 ---
 
 # Advertiser API

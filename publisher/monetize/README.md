@@ -1,2 +1,6 @@
+---
+icon: sack-dollar
+---
+
 # Monetize
 

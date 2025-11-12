@@ -1,6 +1,6 @@
 ---
-icon: hand-pointer
 hidden: true
+icon: hand-pointer
 ---
 
 # Interactive blocks
@@ -39,7 +39,7 @@ Expandable blocks are helpful in condensing what could otherwise be a lengthy pa
 
 ### Drawings
 
-<img alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ### Embedded content
 

@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: rocket-launch
 ---
 
 # Advertise
