@@ -32,7 +32,10 @@
 ## For Publishers <a href="#publisher" id="publisher"></a>
 
 * [Publisher API](publisher/publisher-api/README.md)
-  * [Getting Started with Offerwall](publisher/publisher-api/getting-started-with-offerwall.md)
+  * [Offer API](publisher/publisher-api/offer-api/README.md)
+    * [Offer Get](publisher/publisher-api/offer-api/offer-get.md)
+  * [Offerwall API](publisher/publisher-api/offerwall-api/README.md)
+    * [Offerwall Get](publisher/publisher-api/offerwall-api/offerwall-get.md)
 * [Monetize](publisher/monetize/README.md)
   * [Offerwall](publisher/monetize/offerwall/README.md)
     * [Web](publisher/monetize/offerwall/web.md)
